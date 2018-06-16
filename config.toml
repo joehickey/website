@@ -1,0 +1,45 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dr Joe Hickey"
+theme = ["joehickey", "minimal"]
+
+[params]
+    author = "Joe Hickey"
+    description = "Clinical Psychologist specialising in child and family work"
+    githubUsername = "#"
+    accent = "darkolivegreen"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+  url = "/about/"
+    name = "About"
+    weight = 2
+
+#[[menu.main]]
+#    url = "/post/"
+#    name = "Posts"
+#    weight = 3
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 4
+
+[[menu.icon]]
+    url = "mailto:joe@joehickey.org"
+    name = "envelope-o"
+    weight = 1
