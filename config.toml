@@ -1,5 +1,5 @@
-baseURL = "https://joehickey.github.io"
-languageCode = "en-us"
+baseURL = "https://joehickey.org"
+languageCode = "en-uk"
 title = "Dr Joe Hickey"
 theme = ["joehickey", "minimal"]
 
