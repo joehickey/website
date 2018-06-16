@@ -2,15 +2,15 @@ language: go
 go:
   - master
 
-before-script:
-  - rm -rf public || exit 0
-
 install:
   - go get github.com/magefile/mage
   - go get -d github.com/gohugoio/hugo
   - cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
   - mage vendor
   - mage install
+
+before-script:
+  - rm -rf public || exit 0
 
 script:
   - cd $TRAVIS_BUILD_DIR
@@ -20,7 +20,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  target_branch: master
+  target_branch: public
   keep-history: true
   on:
     branch: master
