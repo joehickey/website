@@ -19,6 +19,7 @@ script:
 deploy:
   provider: pages
   local_dir: public
+  repo_slug: joehickey/joehickey.github.io
   target_branch: public
   github_token: $GITHUB_TOKEN
   skip_cleanup: true
