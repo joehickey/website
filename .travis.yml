@@ -20,7 +20,7 @@ deploy:
   provider: pages
   local_dir: public
   repo: joehickey/joehickey.github.io
-  target_branch: public
+  target_branch: master
   github_token: $GITHUB_TOKEN
   skip_cleanup: true
   keep-history: false
