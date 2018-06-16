@@ -19,9 +19,9 @@ script:
 deploy:
   provider: pages
   local_dir: public
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
   target_branch: public
+  github_token: $GITHUB_TOKEN
+  skip_cleanup: true
   keep-history: false
   on:
     branch: master
