@@ -1,3 +1,10 @@
+notifications:
+  email:
+    recipients:
+      - joe@joehickey.org
+    on_success: always # default: change
+    on_failure: always # default: always
+
 language: go
 go:
   - master
