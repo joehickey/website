@@ -22,6 +22,7 @@ deploy:
   repo: joehickey/joehickey.github.io
   target_branch: master
   github_token: $GITHUB_TOKEN
+  committer-from-gh: true
   skip_cleanup: true
   keep-history: false
   on:
