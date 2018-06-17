@@ -6,6 +6,7 @@ notifications:
     on_failure: always # default: always
 
 language: go
+
 go:
   - master
 
