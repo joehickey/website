@@ -2,12 +2,12 @@ baseURL = "https://joehickey.org"
 languageCode = "en-uk"
 title = "Dr Joe Hickey"
 theme = ["joehickey", "minimal"]
+googleAnalytics = "UA-64566-737-1"
 
 [params]
     author = "Joe Hickey"
     description = "Clinical Psychologist specialising in child and family work"
     githubUsername = "#"
-    googleAnalytics = "UA-64566-737-1"
     accent = "darkolivegreen"
     showBorder = true
     backgroundColor = "white"
