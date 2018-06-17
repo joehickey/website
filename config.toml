@@ -7,6 +7,7 @@ theme = ["joehickey", "minimal"]
     author = "Joe Hickey"
     description = "Clinical Psychologist specialising in child and family work"
     githubUsername = "#"
+    googleAnalytics = "UA-64566-737-1"
     accent = "darkolivegreen"
     showBorder = true
     backgroundColor = "white"
