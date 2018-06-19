@@ -2,7 +2,7 @@ baseURL = "https://joehickey.org"
 languageCode = "en-uk"
 title = "Dr Joe Hickey"
 theme = ["joehickey", "minimal"]
-googleAnalytics = "UA-64566-737-1"
+googleAnalytics = "UA-64566737-1"
 
 [params]
     author = "Joe Hickey"
