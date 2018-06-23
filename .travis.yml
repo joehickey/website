@@ -3,12 +3,12 @@ notifications:
     recipients:
       - joe@joehickey.org
     on_success: always # default: change
-    on_failure: always # default: always 
+    on_failure: always # default: always
 
 language: go
 
 go:
-  - master
+  - 1.10.3
 
 install:
   - go get github.com/magefile/mage
