@@ -7,7 +7,7 @@ draft: false
 
 I am a clinical psychologist providing accessible, creative and evidence-based assessment and therapy in London. I specialise in working with children, adolescents and families experiencing emotional, behavioural and mental health difficulties.
 
-I use therapeutic approaches that are supported by research evidence and psychological theory. I have training and experience in cognitive behaviour therapy (CBT), behaviour therapy, and narrative, attachment and psychodynamic interventions.
+I use therapeutic approaches that are supported by research evidence and psychological theory. I have training and experience in interpersonal psychotherapy for adolescents (IPT-A), cognitive behaviour therapy (CBT), behaviour therapy, narrative therapy and attachment-based interventions.
 
 ## Qualifications and experience
 
