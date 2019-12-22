@@ -11,7 +11,7 @@ I use therapeutic approaches that are supported by research evidence and psychol
 
 ## Qualifications and experience
 
-I am Chartered with the British Psychological Society (BPS) and Registered with the Health and Care Professions Council (HCPC).
+I am Chartered with the British Psychological Society (BPS), a member of the Association of Clinical Psychologists (ACP-UK) and Registered with the Health and Care Professions Council (HCPC).
 
 I completed my Doctorate in Clinical Psychology at University College London. Before this, I studied Psychology and Child Development at the University of London's Institute of Education.
 
